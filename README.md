@@ -55,7 +55,6 @@ Here are some of my key public security projects:
 - 🧠 *Threat Modeling for Microservices*  
 - 🔒 *Blueprint for Your First Incident Response Plan*  
 <!-- BLOG-POST-LIST:END -->
-s-----
 
 ## 📫 Connect & Contact
 
