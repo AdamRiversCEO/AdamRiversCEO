@@ -1,4 +1,4 @@
-<!-- Header / Banner -->
+subb-- Header / Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Adam%20Rivers%20-%20CEO%20-%20Hello%20Security%20vCISO&fontSize=35&fontAlignY=35&animation=twinkling" alt="Adam Rivers Header" />
 </p>
@@ -55,10 +55,7 @@ Here are some of my key public security projects:
 - 🧠 *Threat Modeling for Microservices*  
 - 🔒 *Blueprint for Your First Incident Response Plan*  
 <!-- BLOG-POST-LIST:END -->
-
-<sub>(Auto-updated from your blog / RSS feed via GitHub Action)</sub>
-
----
+s-----
 
 ## 📫 Connect & Contact
 
